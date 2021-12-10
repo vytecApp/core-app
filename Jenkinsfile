@@ -1,2 +1,6 @@
 pipeline{
+  agent any
+  stages{
+    
+  }
 }
