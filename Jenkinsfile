@@ -3,5 +3,7 @@ pipeline{
   stages{
     stage(){
     }
+    stage(){
+    }
   }
 }
