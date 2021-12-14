@@ -2,7 +2,7 @@ pipeline{
   agent any
   stages{
     stage(){
-      testtsts
+      testt[]
       git "https://github.com/vytecApp/core-app.git"
     }
     stage(){
