@@ -2,7 +2,7 @@ pipeline{
   agent any
   stages{
     stage(){
-      git "http://GITHUB.COM/"
+      git "http://GITHUB.COM/ABC"
     }
     stage(){
 
