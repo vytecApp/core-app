@@ -2,7 +2,7 @@ pipeline{
   agent any
   stages{
     stage(){
-      git "http://GITHUB.COM/"
+      git "https://github.com/vytecApp/core-app.git"
     }
     stage(){
 
